@@ -6,7 +6,7 @@
 
 #### _Version: 0.1_
 
-##Usage
+## Usage
 
 All config files are stored in <type of machine>/config/
 
